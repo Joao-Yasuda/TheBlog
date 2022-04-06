@@ -7,7 +7,7 @@ in this project i developed a homepage for a blog
 
 ## 📐 Layout
 
-<img src="./images/cover.png">
+<img src="./cover.png">
 
 ## 🚀 Techs
 
